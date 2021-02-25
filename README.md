@@ -1,2 +1,2 @@
 # ibmds
-Used for IBM Data Science course
+Used for IBM Data Science course.
